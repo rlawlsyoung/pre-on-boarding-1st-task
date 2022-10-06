@@ -4,8 +4,8 @@ import axios from 'axios';
 
 import DetailInfo from './DetailInfo';
 import DetailEmoji from './DetailEmoji';
-import QnaButton from './QnaButton';
-import BuyButton from './BuyButton';
+import DetailBuyButton from './DetailBuyButton';
+import DetailQnaButton from './DetailQnaButton';
 import DetailIcon from './DetailIcon';
 import KeyboardJinyoung from './keyboards/jinyoung/KeyboardJinyoung';
 import styled from 'styled-components';
@@ -28,6 +28,9 @@ const Detail = () => {
           <DetailInfo data={data} setIsKeyboardClicked={setIsKeyboardClicked} />
           {data.isLiveTheme && <DetailEmoji data={data} />}
           {isKeyboardClicked && <KeyboardJinyoung setIsKeyboardClicked={setIsKeyboardClicked} />}
+          <DetailIcon />
+          <DetailQnaButton />
+          <DetailBuyButton data={data} />
         </DetailContainer>
       )}
     </>
