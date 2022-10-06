@@ -20,8 +20,10 @@ https://www.notion.so/1-b2d8f038c91c41aa9c2153b9c656c680
 
        
 #### 김진영
-- 구현한 기능 : 
--  설명 : 
+- 구현한 기능 : 키보드 체험하기, detail 페이지 이모티콘 및 텍스트 박스
+-  설명 : hangul-js 라이브러리를 통해 한글 키보드를 구현했습니다.
+useState를 통해 inputValue라는 state를 관리하고 키보드 상단 input의 value를 inputValue state로 설정해주어 키 값을 입력할 때마다 상태값이 업데이트 되도록 구현했습니다.
+또 detail 페이지에서 데이터를 받아와 isLiveTheme가 true인 경우에만 이모티콘과 텍스트 박스를 출력하도록 설정했습니다.
  
 #### 이기완
 - 구현한 기능 : 
