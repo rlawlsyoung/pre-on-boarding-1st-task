@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# 플레이키보드 프리온보딩 프론트 1팀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  배포 링크
 
-## Available Scripts
+https://playkeyboard-front-team-1.netlify.app/
 
-In the project directory, you can run:
+## 팀 노션
+https://www.notion.so/1-b2d8f038c91c41aa9c2153b9c656c680
 
-### `npm start`
+## 적용 기술 및 구현 기능
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 적용 기술 
++ Front-end : React.js styled component, hangul_js, React-Router-Dom
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+###  구현 기능
 
-### `npm test`
+- 박예선
+- 구현한 기능 : 
+- 설명 : 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+       
+- 김진영
+- 구현한 기능 : 
+-  설명 : 
+ 
+- 이기완
+- 구현한 기능 : 
+- 설명 :
+  
+- 이혜림 
+- 구현한 기능 : 
+- 설명 : 
 
-### `npm run build`
+- 김정연
+- 구현한 기능 : 
+- 설명 : 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Reference
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 이 프로젝트는 비영리목적으로 playkeyboard의 기업협업과제용으로 제작한 프로젝트입니다.
+- 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
