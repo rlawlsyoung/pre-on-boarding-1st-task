@@ -56,13 +56,14 @@ https://github.com/YesunPark/pre-on-boarding-1st-task/blob/9ccd43114998f8983faef
        
 ### [김진영] - 두번째 페이지, 키보드(추가 구현 사항)
 - 구현한 기능 : 키보드 체험하기, detail 페이지 이모티콘 및 텍스트 박스
-- 설명 : hangul-js 라이브러리를 통해 한글 및 영어 키보드를 구현했습니다.<br/>
+- 설명 : 
+  - hangul-js 라이브러리를 통해 한글 및 영어 키보드를 구현했습니다.<br/>
 useState를 통해 inputValue라는 state를 관리하고 키보드 상단 input의 value를 inputValue state로 설정해주어 키 값을 입력할 때마다 상태값이 업데이트 되도록 구현했습니다.
-또 detail 페이지에서 데이터를 받아와 isLiveTheme가 true인 경우에만 이모티콘과 텍스트 박스를 출력하도록 설정했습니다.
+  - detail 페이지에서 데이터를 받아와 isLiveTheme가 true인 경우에만 이모티콘과 텍스트 박스를 출력하도록 설정했습니다.
 
 ### [김정연] - 두번째 페이지
 - 구현한 기능 : 클릭시 이모티콘 카운트 증가, style 변화
-- 설명 : 이모티콘 count 값이 클릭한것만 증가하는 기능을 구현하였습니다.<br/>
+  - 설명 : 이모티콘 count 값이 클릭한것만 증가하는 기능을 구현하였습니다.<br/>
 useState로 count배열 상태값을 관리하여 클릭한이모티콘 count만 1로 바꿔주고 다른 이모티콘 클릭시 배열이 모두 0으로 초기화되게한 다음 다시 클릭한 이모티콘 count만 1로 바뀌도록 구현하였습니다. 
 
  
